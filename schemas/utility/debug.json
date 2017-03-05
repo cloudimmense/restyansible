@@ -1,0 +1,12 @@
+{
+    "schema": {
+        "msg": {
+            "type": "string",
+            "title": "msg"
+        },
+        "var": {
+            "type": "string",
+            "title": "var"
+        }
+    }
+}
